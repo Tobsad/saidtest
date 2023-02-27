@@ -79,7 +79,7 @@ nav {
 /*PRESENTACION HEADER*/
 
 .presentation {
-    background-image: url("/assets/maxresdefault.jpg");
+    background-image: url("./assets/maxresdefault.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh;
